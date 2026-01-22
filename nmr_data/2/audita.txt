@@ -1,0 +1,22 @@
+##TITLE= Audit trail, TopSpin 4.1.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/30mM_2/31/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-02-19 20:50:13.131 +0000>,<CZC8417M53\nmrsu>,<CZC8417M53>,<go4>,<TopSpin 4.1.1>,
+      <acquisition in progress>)
+$$ D:/nmrdata/AG/pratiman/sucrose_13c/30mM_2/31/audita.txt
+(   2,<2025-02-19 23:52:47.467 +0000>,<CZC8417M53\nmrsu>,<CZC8417M53>,<go4>,<TopSpin 4.1.1>,
+      <created by zg on 'AvanceNeo1Bay' (CZC8417M53) by user 'CZC8417M53\nmrsu'
+       on data set with UUID '1d7f0c82-ef03-11ef-94cd-0013952bfa6c'
+       started at 2025-02-19 20:50:13.173 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2025-02-19 23:52:47.466 +0000
+       configuration hash MD5:
+       1C F5 26 30 D0 C1 79 8C 10 CE 26 D0 0B 68 2F 58
+       double data hash MD5: 128K
+       7C 8E B1 81 5B EC 31 36 6C 2B 20 4B 8B E3 66 3D>)
+##END=
+
+$$ hash MD5
+$$ B8 AF D4 84 A0 53 AE C0 D5 BF 84 A2 22 A5 02 7C

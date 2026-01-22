@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.1.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2025-02-20 01:15:16.606 +0530  nmrsu@CZC8417M53
+$$ D:/nmrdata/AG/pratiman/sucrose_13c/30mM_2/31/pdata/1/outd
+$$ process C:\Bruker\TopSpin4.1.1\prog\au\bin\iexpno.exe
+##$CURPLOT= <>
+##$CURPRIN= <$>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_X.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

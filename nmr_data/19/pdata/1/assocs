@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= prati
+$$ 2026-01-21 23:10:24.402 -0800  prati@DESKTOP-OL1VPA6
+$$ E:/Downloads/Compressed/1/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\dirdata.exe
+##$MULTDISP= <C:/Users/prati/Desktop/nmr_test/3/pdata/1>
+##END=

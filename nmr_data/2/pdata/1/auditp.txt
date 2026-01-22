@@ -1,0 +1,139 @@
+##TITLE= Audit trail, TopSpin 4.1.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/nmrdata/AG/pratiman/sucrose_13c/30mM_2/31/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-02-19 20:50:13.131 +0000>,<CZC8417M53\nmrsu>,<CZC8417M53>,<go4>,<TopSpin 4.1.1>,
+      <acquisition in progress>)
+$$ D:/nmrdata/AG/pratiman/sucrose_13c/30mM_2/31/audita.txt
+(   2,<2025-02-19 23:52:47.467 +0000>,<CZC8417M53\nmrsu>,<CZC8417M53>,<go4>,<TopSpin 4.1.1>,
+      <created by zg on 'AvanceNeo1Bay' (CZC8417M53) by user 'CZC8417M53\nmrsu'
+       on data set with UUID '1d7f0c82-ef03-11ef-94cd-0013952bfa6c'
+       started at 2025-02-19 20:50:13.173 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2025-02-19 23:52:47.466 +0000
+       configuration hash MD5:
+       1C F5 26 30 D0 C1 79 8C 10 CE 26 D0 0B 68 2F 58
+       double data hash MD5: 128K
+       7C 8E B1 81 5B EC 31 36 6C 2B 20 4B 8B E3 66 3D>)
+(   3,<2025-02-20 15:46:02.435 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <Start of raw data processing
+       em LB = 1 SI = 32K 
+       data hash MD5: 32K
+       AA 8D C9 AC 36 CB A8 AC A5 97 80 44 0F 88 7C AD>)
+(   4,<2025-02-20 15:46:02.488 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       0F 78 D8 C9 64 F8 1B 08 DB AB 33 E0 DE B8 E8 EF>)
+(   5,<2025-02-20 15:46:02.620 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <apk 
+       data hash MD5: 32K
+       8D A6 28 D2 6D B7 C3 BB AD 0F A0 8D D5 AE B8 6C>)
+(   6,<2025-02-20 15:46:02.666 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       E7 BD 45 D0 6C 64 D3 AA 3B E2 85 7A BC 0B 23 69>)
+(   7,<2025-02-20 15:46:15.915 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -64.17219 PHC1 = -31.17075 SI = 32K 
+       data hash MD5: 32K
+       4C 79 B3 7F AF 54 64 1A EE 9C FF 86 C4 AB 1F 4E>)
+(   8,<2025-02-20 15:46:23.642 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <Start of raw data processing
+       em LB = 1 SI = 32K 
+       data hash MD5: 32K
+       AA 8D C9 AC 36 CB A8 AC A5 97 80 44 0F 88 7C AD>)
+(   9,<2025-02-20 15:46:23.689 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       0F 78 D8 C9 64 F8 1B 08 DB AB 33 E0 DE B8 E8 EF>)
+(  10,<2025-02-20 15:46:23.811 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <apk 
+       data hash MD5: 32K
+       8D A6 28 D2 6D B7 C3 BB AD 0F A0 8D D5 AE B8 6C>)
+(  11,<2025-02-20 15:46:23.858 +0530>,<nmrsu>,<CZC8417M53>,<proc1d>,<TopSpin 4.1.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       E7 BD 45 D0 6C 64 D3 AA 3B E2 85 7A BC 0B 23 69>)
+$$ E:/Desktop/13c_paper_raw_data/1.13C_nmr_dataset/sucrose/2/pdata/1/auditp.txt
+(  12,<2025-12-29T01:41:41.092-0800>,<prati>,<DESKTOP-OL1VPA6>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SI to 16384>)
+(  13,<2025-12-29T01:41:45.523-0800>,<prati>,<DESKTOP-OL1VPA6>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -64.17219 PHC1 = -31.17075 SI = 16K 
+       data hash MD5: 16K
+       9B AC 6B F4 EF 7D EA 30 C9 6E B8 36 78 E3 DF B4>)
+(  14,<2025-12-29T01:41:45.622-0800>,<prati>,<DESKTOP-OL1VPA6>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 16K
+       F4 A5 EC 39 2C 55 88 7F F1 3F 84 B5 66 C1 CC 55>)
+(  15,<2025-12-29T01:41:45.694-0800>,<prati>,<DESKTOP-OL1VPA6>,<proc1d>,<TopSpin 4.3.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 16K
+       96 DF EA CA 5F E7 6F A9 46 5C 87 C6 6C 86 53 FF>)
+(  16,<2025-12-29T01:43:13.584-0800>,<prati>,<DESKTOP-OL1VPA6>,<audit>,<TopSpin 4.3.0>,
+      <user comment:
+       TITLE=Sucrose 30 mM D2O
+       2048 scansTITLE_END
+       data hash MD5: 16K
+       96 DF EA CA 5F E7 6F A9 46 5C 87 C6 6C 86 53 FF>)
+$$ /Users/pde/Documents/nmr_database/1.13c_nmr/sucrose_13c/2/pdata/1/auditp.txt
+(  17,<2025-12-30T02:19:51.146-0800>,<pde>,<Pratimans-MacBook-Air-7.local>,<audit>,<TopSpin 4.5.0>,
+      <user comment:
+       TITLE=Sucrose 30 mM D2OTITLE_END
+       data hash MD5: 16K
+       96 DF EA CA 5F E7 6F A9 46 5C 87 C6 6C 86 53 FF>)
+$$ /Users/pde/Documents/GitHub/FTDD-GAN/data/sucrose_13c/2/pdata/1/auditp.txt
+(  18,<2026-01-01T00:04:19.574-0800>,<pde>,<Pratimans-MacBook-Air-7.local>,<cprserver>,<TopSpin 4.5.0>,
+      <changed parameter F1 SI to 32768>)
+(  19,<2026-01-01T00:04:20.062-0800>,<pde>,<Pratimans-MacBook-Air-7.local>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -84.84653 PHC1 = 3.072083 SI = 32K
+       fid double data hash MD5: 128K
+       7C 8E B1 81 5B EC 31 36 6C 2B 20 4B 8B E3 66 3D
+       data hash MD5: 32K
+       E9 D7 2A 72 0A C7 D5 17 40 26 2C 4C 7B CD 53 51>)
+(  20,<2026-01-01T00:04:20.619-0800>,<pde>,<Pratimans-MacBook-Air-7.local>,<proc1d>,<TopSpin 4.5.0>,
+      <apk
+       data hash MD5: 32K
+       52 26 DE 53 06 32 08 AC 44 BD A7 55 38 23 0B 1B>)
+(  21,<2026-01-01T00:04:21.132-0800>,<pde>,<Pratimans-MacBook-Air-7.local>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 32K
+       14 3F BA 5B 53 57 81 E3 0E AA 24 FA 0F 6F 1B F8>)
+(  22,<2026-01-18T01:21:59.727-0800>,<pde>,<Pratimans-MacBook-Air-8.local>,<cprserver>,<TopSpin 4.5.0>,
+      <changed parameter F1 SI to 16384>)
+(  23,<2026-01-18T01:22:05.365-0800>,<pde>,<Pratimans-MacBook-Air-8.local>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -64.17762 PHC1 = -31.23586 SI = 16K
+       fid double data hash MD5: 128K
+       7C 8E B1 81 5B EC 31 36 6C 2B 20 4B 8B E3 66 3D
+       data hash MD5: 16K
+       2D E0 67 5F 14 9E A0 CF 8F 6C FF A3 D3 30 C2 13>)
+(  24,<2026-01-18T01:22:05.404-0800>,<pde>,<Pratimans-MacBook-Air-8.local>,<proc1d>,<TopSpin 4.5.0>,
+      <apk
+       data hash MD5: 16K
+       2D E0 67 5F 14 9E A0 CF 8F 6C FF A3 D3 30 C2 13>)
+(  25,<2026-01-18T01:22:05.427-0800>,<pde>,<Pratimans-MacBook-Air-8.local>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 16K
+       42 18 70 C9 17 BD 5A E6 06 B8 5F 2E 6A 5D 7C 99>)
+(  26,<2026-01-18T01:31:18.523-0800>,<pde>,<Pratimans-MacBook-Air-8.local>,<proc1d>,<TopSpin 4.5.0>,
+      <dt
+       data hash MD5: 16K
+       ED AF 16 08 49 67 86 FE 7C 0B F1 2E 54 34 02 17>)
+(  27,<2026-01-18T01:31:26.390-0800>,<pde>,<Pratimans-MacBook-Air-8.local>,<proc1d>,<TopSpin 4.5.0>,
+      <dt
+       data hash MD5: 16K
+       AC FE 6A 6B E0 C1 0E DB 6E 26 D0 C4 E3 F1 5D FD>)
+(  28,<2026-01-18T01:31:29.552-0800>,<pde>,<Pratimans-MacBook-Air-8.local>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -64.17762 PHC1 = -31.23586 SI = 16K
+       fid double data hash MD5: 128K
+       7C 8E B1 81 5B EC 31 36 6C 2B 20 4B 8B E3 66 3D
+       data hash MD5: 16K
+       2D E0 67 5F 14 9E A0 CF 8F 6C FF A3 D3 30 C2 13>)
+##END=
+
+$$ hash MD5
+$$ BE 3E 9E 24 91 FC 86 45 39 51 3F 02 C5 F0 F7 CB
